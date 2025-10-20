@@ -24,7 +24,6 @@ This repository contains the source code for an interactive web application that
 3.  [Key Features](#key-features)
 4.  [Project Architecture](#project-architecture)
 5.  [Phase-by-Phase Walkthrough](#phase-by-phase-walkthrough)
-6.  [Running the Project Locally](#running-the-project-locally)
 
 ---
 
